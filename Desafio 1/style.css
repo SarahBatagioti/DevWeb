@@ -1,0 +1,28 @@
+body{ 
+    margin: 0 auto; /* top-bottom left-right* (auto = ajusta automaticamente lf e rg)*/
+    max-width: 80%;
+}
+
+.page1{
+    background-image: url('imagens/fundo.png');   
+}
+
+.page2{
+    background-image: url('imagens/fundo2.png');
+}
+
+nav{
+    padding: 2.2%;
+}
+
+span{
+    margin-left: 500px;
+}
+
+.capa {
+    padding-left: 32px;
+}
+
+h5 {
+    text-align: center;
+}
